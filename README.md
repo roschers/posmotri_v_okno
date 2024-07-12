@@ -1,3 +1,1 @@
-*Проект: posmotri_v_okno
-
-
+https://github.com/roschers/posmotri_v_okno.git
